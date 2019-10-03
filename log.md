@@ -16,3 +16,5 @@ reactor-core | Using TimedScheduledExecutorService from Micrometer | [PR](https:
 
 With this, completed the four PRs for Hacktoberfest. But looking forward to contribute more.
 
+### Day 3: Octomber 3, 2019
+Read and practiced Chapter 2 (Structures) of the Little Go book
