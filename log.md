@@ -18,3 +18,10 @@ With this, completed the four PRs for Hacktoberfest. But looking forward to cont
 
 ### Day 3: Octomber 3, 2019
 Read and practiced Chapter 2 (Structures) of the Little Go book
+
+### Day 4: Octomber 4, 2019
+Continued on the Little Go book
+
+* Revised on Structures in Go
+* Learnt Arrays
+* Started on Splice
