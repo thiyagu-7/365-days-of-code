@@ -25,3 +25,7 @@ Continued on the Little Go book
 * Revised on Structures in Go
 * Learnt Arrays
 * Started on Splice
+
+### Day 5: October 5, 2019
+Completed *Splice* in the Little go book. Played around with arrays and splices.
+
