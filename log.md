@@ -29,3 +29,5 @@ Continued on the Little Go book
 ### Day 5: October 5, 2019
 Completed *Splice* in the Little go book. Played around with arrays and splices.
 
+###Day 6, October 6, 2019
+Raised a [Pull Request](https://github.com/ozlerhakan/poiji/pull/96) on Poiji repository as part of Hacktoberfest.
