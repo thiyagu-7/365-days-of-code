@@ -31,3 +31,9 @@ Completed *Splice* in the Little go book. Played around with arrays and splices.
 
 ###Day 6, October 6, 2019
 Raised a [Pull Request](https://github.com/ozlerhakan/poiji/pull/96) on Poiji repository as part of Hacktoberfest.
+
+###Day 7, October 7, 2019
+* Exploring arrays in Go. Mostly on mutability of objects in an array (Difference between `[]Type` vs `[]*Type`)
+* Maps in Go
+* Did some challenges in Codingame using Golang. 
+
