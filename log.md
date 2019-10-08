@@ -37,3 +37,10 @@ Raised a [Pull Request](https://github.com/ozlerhakan/poiji/pull/96) on Poiji re
 * Maps in Go
 * Did some challenges in Codingame using Golang. 
 
+###Day 8, October 8, 2019
+Did a few problems on Codingame in Golang
+
+* [Temperatures](https://www.codingame.com/ide/puzzle/temperatures)
+* [MIME Type](https://www.codingame.com/ide/puzzle/mime-type)
+
+
