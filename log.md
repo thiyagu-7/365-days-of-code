@@ -29,18 +29,20 @@ Continued on the Little Go book
 ### Day 5: October 5, 2019
 Completed *Splice* in the Little go book. Played around with arrays and splices.
 
-###Day 6, October 6, 2019
+### Day 6, October 6, 2019
 Raised a [Pull Request](https://github.com/ozlerhakan/poiji/pull/96) on Poiji repository as part of Hacktoberfest.
 
-###Day 7, October 7, 2019
+### Day 7, October 7, 2019
 * Exploring arrays in Go. Mostly on mutability of objects in an array (Difference between `[]Type` vs `[]*Type`)
 * Maps in Go
 * Did some challenges in Codingame using Golang. 
 
-###Day 8, October 8, 2019
+### Day 8, October 8, 2019
 Did a few problems on Codingame in Golang
 
 * [Temperatures](https://www.codingame.com/ide/puzzle/temperatures)
 * [MIME Type](https://www.codingame.com/ide/puzzle/mime-type)
 
+### Day 9, October 9, 2019
+Explored packages in Golang
 
