@@ -46,3 +46,8 @@ Did a few problems on Codingame in Golang
 ### Day 9, October 9, 2019
 Explored packages in Golang
 
+### Day 10, October 10, 2019
+Interfaces in Go. 
+Codewars problem (solved using Golang)
+
+* [Word values (7kyu)](https://www.codewars.com/kata/word-values/train/go)
