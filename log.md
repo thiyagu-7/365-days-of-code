@@ -51,3 +51,16 @@ Interfaces in Go.
 Codewars problem (solved using Golang)
 
 * [Word values (7kyu)](https://www.codewars.com/kata/word-values/train/go)
+
+### Day 11, October 14, 2019
+Revisted and took notes from *packages* and *interfaces*.
+
+Codewars problem 
+
+* [The Poet And The Pendulum (7kyu)](https://www.codewars.com/kata/the-poet-and-the-pendulum/)
+  * Leant about the Sort methods in Go
+  * Some SO links:
+      * [golang sort slice ascending or descending](https://stackoverflow.com/questions/37695209/golang-sort-slice-ascending-or-descending/40932847)
+      * [How do I reverse an array in Go?
+](https://stackoverflow.com/questions/19239449/how-do-i-reverse-an-array-in-go)
+
