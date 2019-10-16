@@ -67,5 +67,12 @@ Codewars problem
 ### Day 12, October 15, 2019
 Codewars problem
 
-* [String ends with?](https://www.codewars.com/kata/string-ends-with)
-* [Parts of a list](https://www.codewars.com/kata/parts-of-a-list)
+* [String ends with?(7kyu)](https://www.codewars.com/kata/string-ends-with)
+* [Parts of a list (7kyu)](https://www.codewars.com/kata/parts-of-a-list)
+
+### Day 13, October 16, 2019
+Codewars problem
+
+* [Sum of odd numbers (7kyu)](https://www.codewars.com/kata/sum-of-odd-numbers)
+* [Pyramid Array(6kyu)](https://www.codewars.com/kata/pyramid-array)
+* [Vasya - Clerk (6kyu)](https://www.codewars.com/kata/vasya-clerk/train/go)
