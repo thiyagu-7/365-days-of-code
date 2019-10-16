@@ -64,3 +64,8 @@ Codewars problem
       * [How do I reverse an array in Go?
 ](https://stackoverflow.com/questions/19239449/how-do-i-reverse-an-array-in-go)
 
+### Day 12, October 15, 2019
+Codewars problem
+
+* [String ends with?](https://www.codewars.com/kata/string-ends-with)
+* [Parts of a list](https://www.codewars.com/kata/parts-of-a-list)
