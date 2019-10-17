@@ -65,14 +65,23 @@ Codewars problem
 ](https://stackoverflow.com/questions/19239449/how-do-i-reverse-an-array-in-go)
 
 ### Day 12, October 15, 2019
-Codewars problem
+Codewars problems
 
 * [String ends with?(7kyu)](https://www.codewars.com/kata/string-ends-with)
 * [Parts of a list (7kyu)](https://www.codewars.com/kata/parts-of-a-list)
 
 ### Day 13, October 16, 2019
-Codewars problem
+Codewars problems
 
 * [Sum of odd numbers (7kyu)](https://www.codewars.com/kata/sum-of-odd-numbers)
 * [Pyramid Array(6kyu)](https://www.codewars.com/kata/pyramid-array)
-* [Vasya - Clerk (6kyu)](https://www.codewars.com/kata/vasya-clerk/train/go)
+* [Vasya - Clerk (6kyu)](https://www.codewars.com/kata/vasya-clerk)
+
+### Day 14, October 17, 2019
+* Codewars problems
+
+  * [Highest Scoring Word (6kyu)](https://www.codewars.com/kata/highest-scoring-word)
+  * [Numericals of a String (6kyu)](https://www.codewars.com/kata/numericals-of-a-string)
+
+* Updated README for the [Poiji PR](https://github.com/ozlerhakan/poiji/pull/96)
+* Javadoc update on RxJava for Single.java
