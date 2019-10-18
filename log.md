@@ -85,3 +85,10 @@ Codewars problems
 
 * Updated README for the [Poiji PR](https://github.com/ozlerhakan/poiji/pull/96)
 * Javadoc update on RxJava for Single.java
+
+### Day 15, October 18, 2019
+* Codewars problem (using Golang as usual)
+  * [Complete the table pattern (6 kyu)](https://www.codewars.com/kata/complete-the-table-pattern)
+  * [Highest Rank Number in an Array (6 kyu)](https://www.codewars.com/kata/highest-rank-number-in-an-array)
+
+  
