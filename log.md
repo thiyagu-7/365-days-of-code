@@ -91,4 +91,8 @@ Codewars problems
   * [Complete the table pattern (6 kyu)](https://www.codewars.com/kata/complete-the-table-pattern)
   * [Highest Rank Number in an Array (6 kyu)](https://www.codewars.com/kata/highest-rank-number-in-an-array)
 
-  
+### Day 16, October 19, 2019
+* Codewars
+  * [CamelCase Method (6kyu)](https://www.codewars.com/kata/camelcase-method)
+  * [compute cube as sums (6kyu)](https://www.codewars.com/kata/compute-cube-as-sums)
+* Read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
