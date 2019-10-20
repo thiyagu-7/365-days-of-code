@@ -96,3 +96,11 @@ Codewars problems
   * [CamelCase Method (6kyu)](https://www.codewars.com/kata/camelcase-method)
   * [compute cube as sums (6kyu)](https://www.codewars.com/kata/compute-cube-as-sums)
 * Read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
+
+### Day 17, October 20, 2019
+* Codewars (golang as usual)
+  * [Two Sum (6kyu)](https://www.codewars.com/kata/two-sum/)
+  * [Alphabetical Addition (7kyu)](https://www.codewars.com/kata/alphabetical-addition)
+
+* Read [Strings, bytes, runes and characters in Go](https://blog.golang.org/strings)
