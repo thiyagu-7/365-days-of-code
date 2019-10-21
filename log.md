@@ -104,3 +104,9 @@ Codewars problems
   * [Alphabetical Addition (7kyu)](https://www.codewars.com/kata/alphabetical-addition)
 
 * Read [Strings, bytes, runes and characters in Go](https://blog.golang.org/strings)
+
+### Day 18, October 21, 2019
+* Codewars (golang)
+  * [Consecutive strings (6kyu)](https://www.codewars.com/kata/consecutive-strings/) (solved it in O(n))
+  * [Mexican Wave (6kyu)](https://www.codewars.com/kata/mexican-wave/)
+
