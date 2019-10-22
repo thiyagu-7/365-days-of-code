@@ -110,3 +110,8 @@ Codewars problems
   * [Consecutive strings (6kyu)](https://www.codewars.com/kata/consecutive-strings/) (solved it in O(n))
   * [Mexican Wave (6kyu)](https://www.codewars.com/kata/mexican-wave/)
 
+### Day 19, October 22, 2019
+* Codewars (golang)
+  * [WeIrD StRiNg CaSe (6kyu)](https://www.codewars.com/kata/weird-string-case)
+
+* Read about Errors in Go from Tidbits chapter in Little Go Book
