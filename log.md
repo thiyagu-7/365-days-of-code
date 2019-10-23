@@ -115,3 +115,9 @@ Codewars problems
   * [WeIrD StRiNg CaSe (6kyu)](https://www.codewars.com/kata/weird-string-case)
 
 * Read about Errors in Go from Tidbits chapter in Little Go Book
+
+### Day 20, October 23, 2019
+* Codewars (Golang)
+  * [Consonant value (6kyu)](https://www.codewars.com/kata/consonant-value)
+
+* defer keyword and Initialized If in Golang
