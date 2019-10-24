@@ -121,3 +121,6 @@ Codewars problems
   * [Consonant value (6kyu)](https://www.codewars.com/kata/consonant-value)
 
 * defer keyword and Initialized If in Golang
+
+### Day 21, October 24, 2019
+* Raised a PR for the Poiji repository - [Poiji does not allow field with @ExcelRow to be present last](https://github.com/ozlerhakan/poiji/pull/102)
