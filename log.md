@@ -124,3 +124,8 @@ Codewars problems
 
 ### Day 21, October 24, 2019
 * Raised a PR for the Poiji repository - [Poiji does not allow field with @ExcelRow to be present last](https://github.com/ozlerhakan/poiji/pull/102)
+
+### Day 22, October 25, 2019
+* Codewars (Golang)
+  * [Function iteration (6kyu)](https://www.codewars.com/kata/function-iteration/)
+* Github Eclipse-hono issue - [Add metrics to Lora and Sigfox adapters](https://github.com/eclipse/hono/issues/1593)
