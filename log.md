@@ -133,3 +133,9 @@ Codewars problems
 ### Day 23, October 26, 2019
 * Completed tidbits section on the Little Go book
 * Learnt about [TeaVM](https://blogs.oracle.com/javamagazine/java-in-the-browser-with-teavm). Ran the hello-world app for that.
+
+### Day 24, October 27, 2019
+* Codewars (Golang)
+  * [Union of Intervals](https://www.codewars.com/kata/union-of-intervals) - Have to improve the solution to be more elegant
+
+* Started on Go Routines
