@@ -139,3 +139,6 @@ Codewars problems
   * [Union of Intervals](https://www.codewars.com/kata/union-of-intervals) - Have to improve the solution to be more elegant
 
 * Started on Go Routines
+
+### Day 25, October 28, 2019
+* Contributed to the vavr repo, improving the documentation example - [Issue](https://github.com/vavr-io/vavr/issues/2458)
