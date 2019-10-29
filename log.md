@@ -142,3 +142,7 @@ Codewars problems
 
 ### Day 25, October 28, 2019
 * Contributed to the vavr repo, improving the documentation example - [Issue](https://github.com/vavr-io/vavr/issues/2458)
+
+### Day 26, October 29, 2019
+* Tried out goroutines and synchronization (`sync.Mutex`)
+* Read Channels
