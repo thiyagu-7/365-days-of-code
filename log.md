@@ -145,4 +145,7 @@ Codewars problems
 
 ### Day 26, October 29, 2019
 * Tried out goroutines and synchronization (`sync.Mutex`)
-* Read Channels
+* Read Channels, buffered channels and select in Golang.
+
+### Day 27, October 30, 2019
+* Tried out Channels, buffered channels and select in Golang
