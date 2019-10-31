@@ -149,3 +149,9 @@ Codewars problems
 
 ### Day 27, October 30, 2019
 * Tried out Channels, buffered channels and select in Golang
+
+
+### Day 28, October 31, 2019
+* Timeouts in Select
+* Codewars (Golang)
+  * [Solomon's Quest for the Temporal Crystal (6kyu)](https://www.codewars.com/kata/solomons-quest-for-the-temporal-crystal)
