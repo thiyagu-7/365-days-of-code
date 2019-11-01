@@ -155,3 +155,9 @@ Codewars problems
 * Timeouts in Select
 * Codewars (Golang)
   * [Solomon's Quest for the Temporal Crystal (6kyu)](https://www.codewars.com/kata/solomons-quest-for-the-temporal-crystal)
+
+
+### Day 29, November 1, 2019
+* Read [Golang io package](https://golang.org/pkg/io/)
+* Codewars
+  * [Character with longest consecutive repetition (6 kyu)](https://www.codewars.com/kata/character-with-longest-consecutive-repetition)
