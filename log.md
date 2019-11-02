@@ -161,3 +161,7 @@ Codewars problems
 * Read [Golang io package](https://golang.org/pkg/io/)
 * Codewars
   * [Character with longest consecutive repetition (6 kyu)](https://www.codewars.com/kata/character-with-longest-consecutive-repetition)
+
+### Day 30, November 2, 2019
+[Go Concurrency tour](https://tour.golang.org/concurrency)
+
