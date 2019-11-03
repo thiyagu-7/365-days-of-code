@@ -165,3 +165,6 @@ Codewars problems
 ### Day 30, November 2, 2019
 [Go Concurrency tour](https://tour.golang.org/concurrency)
 
+### Day 31, November 3, 2019
+* Codewars
+  * [Range of Integers in an Unsorted String (6kyu)](https://www.codewars.com/kata/range-of-integers-in-an-unsorted-string)
