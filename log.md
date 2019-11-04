@@ -168,3 +168,7 @@ Codewars problems
 ### Day 31, November 3, 2019
 * Codewars
   * [Range of Integers in an Unsorted String (6kyu)](https://www.codewars.com/kata/range-of-integers-in-an-unsorted-string)
+
+### Day 32, November 4, 2019
+* Codewars (tried in Java)
+   * [String subpattern recognition I (6kyu)](https://www.codewars.com/kata/string-subpattern-recognition-i)
