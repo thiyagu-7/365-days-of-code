@@ -176,3 +176,6 @@ Codewars problems
 ### Day 33, November 5, 2019
 * Read the code for the contributing to the [Vaadin issue](https://github.com/vaadin/flow/issues/5310)
 * Started with code changes for it
+
+### Day 34, November 6, 2019
+* Raised a PR for the Vaadin issue
