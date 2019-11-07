@@ -179,3 +179,7 @@ Codewars problems
 
 ### Day 34, November 6, 2019
 * Raised a PR for the Vaadin issue
+
+### Day 35, November 7, 2019
+* Codewars
+  * [ByState (6 kyu)](https://www.codewars.com/kata/bystate/)
