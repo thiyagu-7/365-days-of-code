@@ -183,3 +183,6 @@ Codewars problems
 ### Day 35, November 7, 2019
 * Codewars
   * [ByState (6 kyu)](https://www.codewars.com/kata/bystate/)
+
+### Day 36, November 8, 2019
+[Stack Explorer App](https://github.com/thiyagu-7/stack-explorer): Integrated with a date picker. Settled for [vue-datetime](https://github.com/mariomka/vue-datetime) after trying out a few
