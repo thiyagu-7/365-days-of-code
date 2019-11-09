@@ -186,3 +186,8 @@ Codewars problems
 
 ### Day 36, November 8, 2019
 [Stack Explorer App](https://github.com/thiyagu-7/stack-explorer): Integrated with a date picker. Settled for [vue-datetime](https://github.com/mariomka/vue-datetime) after trying out a few
+
+### Day 37, November 9, 2019
+* Sorted out prettier warning (followed [this](https://github.com/prettier/prettier-vscode/issues/344))
+* Added input text boxes in stack explorer for votes and tags input
+* Depended on font-awesome for add/remove buttons
