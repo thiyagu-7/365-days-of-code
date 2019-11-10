@@ -191,3 +191,6 @@ Codewars problems
 * Sorted out prettier warning (followed [this](https://github.com/prettier/prettier-vscode/issues/344))
 * Added input text boxes in stack explorer for votes and tags input
 * Depended on font-awesome for add/remove buttons
+
+### Day 38, November 10, 2019
+* Stack explorer app - Supporting dynamic addition of text boxes for tags
