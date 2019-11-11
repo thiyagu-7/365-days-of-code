@@ -194,3 +194,5 @@ Codewars problems
 
 ### Day 38, November 10, 2019
 * Stack explorer app - Supporting dynamic addition of text boxes for tags
+
+### Day 39, November 11, 2019
