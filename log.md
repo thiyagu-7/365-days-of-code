@@ -196,3 +196,8 @@ Codewars problems
 * Stack explorer app - Supporting dynamic addition of text boxes for tags
 
 ### Day 39, November 11, 2019
+Solved few problems on Leetcode
+
+### Day 40, November 12, 2019
+* Read through StackExchange doc for API key
+* Cleaned up the input elements in stack explorer app
