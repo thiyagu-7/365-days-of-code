@@ -201,3 +201,11 @@ Solved few problems on Leetcode
 ### Day 40, November 12, 2019
 * Read through StackExchange doc for API key
 * Cleaned up the input elements in stack explorer app
+
+### Day 41, November 13, 2019
+* The UI input elements
+* Faced problem in [vue-datetime](https://github.com/mariomka/vue-datetime/pull/61) library
+   * Max value was allowing only till the configured date minus 1. Fixed after updating from 1.0.0-beta.10 to 1.0.0-beta.11 as the fix was pushed only a few hours back.
+   * Using `type="date"` shows a day before the initialized date (Related to [issue](https://github.com/mariomka/vue-datetime/issues/70)). Works with `type=datetime`. 
+     * Setting `value-zone="local"` fixes it for "date"
+     * But this creates final date as '2019-11-13T00:00:00.000+05:30'
