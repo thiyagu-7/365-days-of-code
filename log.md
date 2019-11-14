@@ -209,3 +209,6 @@ Solved few problems on Leetcode
    * Using `type="date"` shows a day before the initialized date (Related to [issue](https://github.com/mariomka/vue-datetime/issues/70)). Works with `type=datetime`. 
      * Setting `value-zone="local"` fixes it for "date"
      * But this creates final date as '2019-11-13T00:00:00.000+05:30'
+
+### Day 42, November 14, 2019
+* Read misc things on Golang
