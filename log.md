@@ -212,3 +212,6 @@ Solved few problems on Leetcode
 
 ### Day 42, November 14, 2019
 * Read misc things on Golang
+
+### Day 43, November 15, 2019
+StackExplorer input page styling
