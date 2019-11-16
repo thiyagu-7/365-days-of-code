@@ -215,3 +215,6 @@ Solved few problems on Leetcode
 
 ### Day 43, November 15, 2019
 StackExplorer input page styling
+
+### Day 44, November 16, 2019
+Read Chapter 1 - Tutorial from *The Go Programming Language*
