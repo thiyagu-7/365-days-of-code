@@ -221,3 +221,10 @@ Read Chapter 1 - Tutorial from *The Go Programming Language*
 
 ### Day 45, November 17, 2019
 Read Program Structure chapter of *The Go Programming Language* covering Names, Declarations and Variables.
+
+### Day 46, November 18, 2019
+Codewars (golang)
+
+* [Playing with passphrases (6 kyu)](https://www.codewars.com/kata/playing-with-passphrases)
+
+Saw AnkiConnect
