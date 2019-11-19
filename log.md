@@ -228,3 +228,9 @@ Codewars (golang)
 * [Playing with passphrases (6 kyu)](https://www.codewars.com/kata/playing-with-passphrases)
 
 Saw AnkiConnect
+
+### Day 47, November 19, 2019
+* Codewards (Golang)
+  * [Split Strings (6 kyu)](https://www.codewars.com/kata/split-strings)
+  * [N-Point Crossover (6 kyu)](https://www.codewars.com/kata/n-point-crossover)
+* Read Anki documentation
