@@ -234,3 +234,11 @@ Saw AnkiConnect
   * [Split Strings (6 kyu)](https://www.codewars.com/kata/split-strings)
   * [N-Point Crossover (6 kyu)](https://www.codewars.com/kata/n-point-crossover)
 * Read Anki documentation
+
+### Day 48, November 20, 2019
+* Codewars (Golang)
+  * [Errors : histogram (6 kyu)](https://www.codewars.com/kata/errors-histogram)
+    * couple of cases failing - but expected and actual ouput seems same.
+
+* Playing around HTML parsing of vocabulary.com
+
