@@ -242,3 +242,5 @@ Saw AnkiConnect
 
 * Playing around HTML parsing of vocabulary.com
 
+### Day 49, November 21, 2019
+HTML processing
