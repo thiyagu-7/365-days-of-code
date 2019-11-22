@@ -244,3 +244,6 @@ Saw AnkiConnect
 
 ### Day 49, November 21, 2019
 HTML processing
+
+### Day 50, November 22, 2019
+Completed HTML parsing to extract the definitions from vocabulary.com
