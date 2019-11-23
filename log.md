@@ -247,3 +247,9 @@ HTML processing
 
 ### Day 50, November 22, 2019
 Completed HTML parsing to extract the definitions from vocabulary.com
+
+### Day 51, November 23, 2019
+* Completed extracting definitions from a vocabulary page
+* AnkiConnect APIs
+* Anki Model/Note-type template generation in progress
+
