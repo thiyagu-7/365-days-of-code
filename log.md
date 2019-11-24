@@ -253,3 +253,8 @@ Completed HTML parsing to extract the definitions from vocabulary.com
 * AnkiConnect APIs
 * Anki Model/Note-type template generation in progress
 
+### Day 52, November 24, 2019
+* Completed Note-type template (html and js)
+* Creating note from Ankiconnect API
+
+
