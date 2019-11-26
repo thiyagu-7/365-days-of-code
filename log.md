@@ -260,3 +260,8 @@ Completed HTML parsing to extract the definitions from vocabulary.com
 ### Day 53, November 25, 2019
 * Changing the type of result object created after parsing HTML from vocabulary.com page
 * Corresponding change made to Anki's note-type template.
+
+### Day 54, November 26, 2019
+* Hello world chrome extension
+* Reading about the extension elements
+* Executing js on the page
