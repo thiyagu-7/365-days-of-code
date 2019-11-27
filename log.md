@@ -265,3 +265,6 @@ Completed HTML parsing to extract the definitions from vocabulary.com
 * Hello world chrome extension
 * Reading about the extension elements
 * Executing js on the page
+
+### Day 55, November 27, 2019
+Misc things on vocabulary-Anki integration
