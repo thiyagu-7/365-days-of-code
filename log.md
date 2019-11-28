@@ -268,3 +268,7 @@ Completed HTML parsing to extract the definitions from vocabulary.com
 
 ### Day 55, November 27, 2019
 Misc things on vocabulary-Anki integration
+
+### Day 56, November 28, 2019
+* Loading spinner when calling Anki API
+* Update not if already present (read-then-write)
