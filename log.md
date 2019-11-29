@@ -272,3 +272,8 @@ Misc things on vocabulary-Anki integration
 ### Day 56, November 28, 2019
 * Loading spinner when calling Anki API
 * Update not if already present (read-then-write)
+
+### Day 57, November 29, 2019
+* Finishing up the chrome-extension - vocab-ninja
+* Generated icon
+* Anki formatting issues
