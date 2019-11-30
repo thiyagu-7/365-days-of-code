@@ -277,3 +277,6 @@ Misc things on vocabulary-Anki integration
 * Finishing up the chrome-extension - vocab-ninja
 * Generated icon
 * Anki formatting issues
+
+### Day 58, November 30, 2019
+* Pushed code to [vocab-ninja](https://github.com/thiyagu-7/vocab-ninja)
