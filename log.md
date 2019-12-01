@@ -280,3 +280,7 @@ Misc things on vocabulary-Anki integration
 
 ### Day 58, November 30, 2019
 * Pushed code to [vocab-ninja](https://github.com/thiyagu-7/vocab-ninja)
+
+
+### Day 59, December 1, 2019
+* Returned back to Golang book
