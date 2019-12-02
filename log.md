@@ -284,3 +284,7 @@ Misc things on vocabulary-Anki integration
 
 ### Day 59, December 1, 2019
 * Returned back to Golang book
+
+### Day 60, December 2, 2019
+* Little bit on Golang book
+* Stack explorer UI validation (not on submit)
