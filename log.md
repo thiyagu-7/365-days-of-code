@@ -288,3 +288,7 @@ Misc things on vocabulary-Anki integration
 ### Day 60, December 2, 2019
 * Little bit on Golang book
 * Stack explorer UI validation (not on submit)
+
+### Day 61, December 3, 2019
+* Stack exchange API quick (re)look
+* Playing around with axios hitting API and http-server
