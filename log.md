@@ -292,3 +292,8 @@ Misc things on vocabulary-Anki integration
 ### Day 61, December 3, 2019
 * Stack exchange API quick (re)look
 * Playing around with axios hitting API and http-server
+
+### Day 62, December 4, 2019
+* Stack exchange API code
+* Found timezone related issue (related to Day 41). The exact timestamp generated from api.stackexchange.com and the app vary due to timezone.
+    * api.stackexchange.com uses GMT (gives local time of GMT 00:00). The app currently generates 00:00:00.000+05:30
