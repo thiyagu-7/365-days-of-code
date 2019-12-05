@@ -297,3 +297,6 @@ Misc things on vocabulary-Anki integration
 * Stack exchange API code
 * Found timezone related issue (related to Day 41). The exact timestamp generated from api.stackexchange.com and the app vary due to timezone.
     * api.stackexchange.com uses GMT (gives local time of GMT 00:00). The app currently generates 00:00:00.000+05:30
+
+### Day 63, December 5, 2019
+* Stack explorer - Started Question card
