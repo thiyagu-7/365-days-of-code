@@ -300,3 +300,7 @@ Misc things on vocabulary-Anki integration
 
 ### Day 63, December 5, 2019
 * Stack explorer - Started Question card
+
+### Day 64, December 6, 2019
+* Stack explorer question card formatting 
+* Added date, views and votes
