@@ -304,3 +304,6 @@ Misc things on vocabulary-Anki integration
 ### Day 64, December 6, 2019
 * Stack explorer question card formatting 
 * Added date, views and votes
+
+### Day 65, December 7, 2019
+* Question card completed
