@@ -307,3 +307,10 @@ Misc things on vocabulary-Anki integration
 
 ### Day 65, December 7, 2019
 * Question card completed
+
+### Day 66, December 8, 2019
+* Some adjustments to question card
+* Page for *questions*
+  * Passing query params as props
+  * Wrote custom function to populate props ignoring optional ones (*page* and *pagesize*)
+  
