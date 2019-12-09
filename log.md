@@ -314,3 +314,6 @@ Misc things on vocabulary-Anki integration
   * Passing query params as props
   * Wrote custom function to populate props ignoring optional ones (*page* and *pagesize*)
   
+### Day 67, December 9, 2019
+* Integrated Questions page with Stackexchange API (basic integration)
+* Started with Pagination nav 
