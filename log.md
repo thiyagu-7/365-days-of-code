@@ -317,3 +317,7 @@ Misc things on vocabulary-Anki integration
 ### Day 67, December 9, 2019
 * Integrated Questions page with Stackexchange API (basic integration)
 * Started with Pagination nav 
+
+### Day 68, December 10, 2019
+* Completed pagination for Questions
+* Tested by calling actual API and paginating the results
