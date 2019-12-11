@@ -321,3 +321,7 @@ Misc things on vocabulary-Anki integration
 ### Day 68, December 10, 2019
 * Completed pagination for Questions
 * Tested by calling actual API and paginating the results
+
+### Day 69, December 11, 2019
+* Answers API on SE
+* Async/await in js
