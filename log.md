@@ -325,3 +325,7 @@ Misc things on vocabulary-Anki integration
 ### Day 69, December 11, 2019
 * Answers API on SE
 * Async/await in js
+
+### Day 70, December 12, 2019
+* Plan for the answers API
+  * Pagination, Local storage based approach
