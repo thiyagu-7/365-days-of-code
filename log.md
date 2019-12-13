@@ -329,3 +329,8 @@ Misc things on vocabulary-Anki integration
 ### Day 70, December 12, 2019
 * Plan for the answers API
   * Pagination, Local storage based approach
+
+### Day 71, December 13, 2019
+* Created new page for answers
+* Got throttled since didn't honor backoff (seems /answers is throttling more than /search)
+* /posts API won't work as it doesn't provide *tags*
