@@ -334,3 +334,7 @@ Misc things on vocabulary-Anki integration
 * Created new page for answers
 * Got throttled since didn't honor backoff (seems /answers is throttling more than /search)
 * /posts API won't work as it doesn't provide *tags*
+
+### Day 72, December 14, 2019
+* Renamed Question to PostDetailCard.
+* Cleaned up Questions 
