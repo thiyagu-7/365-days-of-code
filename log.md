@@ -338,3 +338,7 @@ Misc things on vocabulary-Anki integration
 ### Day 72, December 14, 2019
 * Renamed Question to PostDetailCard.
 * Cleaned up Questions 
+
+### Day 73, December 15, 2019
+* Pushed code for Questions and PostDetails page
+* Deployed to netlify
