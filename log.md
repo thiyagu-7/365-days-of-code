@@ -346,3 +346,6 @@ Misc things on vocabulary-Anki integration
 ### Day 74, December 16, 2019
 * serialize-javascript vulnerability fix
 * Info Banner on top for Questions. Show warn banner for no results
+
+### Day 75, December 17, 2019
+* Wired home page to questions page 
