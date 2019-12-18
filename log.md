@@ -349,3 +349,6 @@ Misc things on vocabulary-Anki integration
 
 ### Day 75, December 17, 2019
 * Wired home page to questions page 
+
+### Day 76, December 18, 2019
+* Added validation on input page (TODO: Need better way of doing this)
