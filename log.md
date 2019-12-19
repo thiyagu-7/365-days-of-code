@@ -352,3 +352,6 @@ Misc things on vocabulary-Anki integration
 
 ### Day 76, December 18, 2019
 * Added validation on input page (TODO: Need better way of doing this)
+
+### Day 77, December 19, 2019
+* Clean up of input page
