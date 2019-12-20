@@ -355,3 +355,7 @@ Misc things on vocabulary-Anki integration
 
 ### Day 77, December 19, 2019
 * Clean up of input page
+
+### Day 78, December 20, 2019
+* Saw if answers API can take tagged param or search API can support *is:answer* - Both didn't
+* Read and tried localStorage 
