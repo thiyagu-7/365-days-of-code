@@ -359,3 +359,6 @@ Misc things on vocabulary-Anki integration
 ### Day 78, December 20, 2019
 * Saw if answers API can take tagged param or search API can support *is:answer* - Both didn't
 * Read and tried localStorage 
+
+### Day 79, December 21, 2019
+* Worked on the Vocab ninja [issue-2] (https://github.com/thiyagu-7/vocab-ninja/issues/2) - to change to button name (save or re-save) based on the existence of the word
