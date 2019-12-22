@@ -362,3 +362,7 @@ Misc things on vocabulary-Anki integration
 
 ### Day 79, December 21, 2019
 * Worked on the Vocab ninja [issue-2] (https://github.com/thiyagu-7/vocab-ninja/issues/2) - to change to button name (save or re-save) based on the existence of the word
+
+### Day 80, December 22, 2019
+* Pushed changes to vocab-ninja
+* Few clash of codes in codingame
