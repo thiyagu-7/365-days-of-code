@@ -366,3 +366,7 @@ Misc things on vocabulary-Anki integration
 ### Day 80, December 22, 2019
 * Pushed changes to vocab-ninja
 * Few clash of codes in codingame
+
+### Day 81, December 23, 2019
+* Clash of codes in codingame
+* Advent of code - Solved 1st problem
