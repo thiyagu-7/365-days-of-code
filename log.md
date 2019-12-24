@@ -370,3 +370,7 @@ Misc things on vocabulary-Anki integration
 ### Day 81, December 23, 2019
 * Clash of codes in codingame
 * Advent of code - Solved 1st problem
+
+### Day 82, December 24, 2019
+* Clash of codes
+* Advent of code - Day 2
