@@ -374,3 +374,8 @@ Misc things on vocabulary-Anki integration
 ### Day 82, December 24, 2019
 * Clash of codes
 * Advent of code - Day 2
+
+### Day 83, December 25, 2019
+* Advent code code - Day 3 - part I
+  * Allocating a grid leads to OOM - need more heap to solve
+  * Another solution that finds intersection of lines without a 2D grid
