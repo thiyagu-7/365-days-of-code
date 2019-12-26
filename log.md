@@ -379,3 +379,10 @@ Misc things on vocabulary-Anki integration
 * Advent code code - Day 3 - part I
   * Allocating a grid leads to OOM - need more heap to solve
   * Another solution that finds intersection of lines without a 2D grid
+
+  
+### Day 84, December 26, 2019
+* Advent of code - Day 3 part II
+  * Solved using the grid approach
+  * Optimized the same grid approach without a 2d grid. Stored the visited points in a hashmap with the cost
+* Clash of code
