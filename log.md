@@ -386,3 +386,7 @@ Misc things on vocabulary-Anki integration
   * Solved using the grid approach
   * Optimized the same grid approach without a 2d grid. Stored the visited points in a hashmap with the cost
 * Clash of code
+
+### Day 85, December 27, 2019
+* Advent of code - Day 4
+ * Solved by looping through the input number range and checking for the required conditions
