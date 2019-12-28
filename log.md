@@ -390,3 +390,7 @@ Misc things on vocabulary-Anki integration
 ### Day 85, December 27, 2019
 * Advent of code - Day 4
  * Solved by looping through the input number range and checking for the required conditions
+
+### Day 86, December 28, 2019
+* Clash of code
+* Vocab-ninja issue - [Handle URLs with query params](https://github.com/thiyagu-7/vocab-ninja/issues/1)
