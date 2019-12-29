@@ -394,3 +394,7 @@ Misc things on vocabulary-Anki integration
 ### Day 86, December 28, 2019
 * Clash of code
 * Vocab-ninja issue - [Handle URLs with query params](https://github.com/thiyagu-7/vocab-ninja/issues/1)
+
+### Day 87, December 29, 2019
+* Clash of code
+* Got *Clash of code fan* achievement
