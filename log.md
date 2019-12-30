@@ -398,3 +398,8 @@ Misc things on vocabulary-Anki integration
 ### Day 87, December 29, 2019
 * Clash of code
 * Got *Clash of code fan* achievement
+
+
+### Day 88, December 30, 2019
+* Read Advent of code day 5 - [https://adventofcode.com/2019/day/5](https://adventofcode.com/2019/day/5)
+* Clash of code
