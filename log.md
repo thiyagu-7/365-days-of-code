@@ -403,3 +403,6 @@ Misc things on vocabulary-Anki integration
 ### Day 88, December 30, 2019
 * Read Advent of code day 5 - [https://adventofcode.com/2019/day/5](https://adventofcode.com/2019/day/5)
 * Clash of code
+
+### Day 89, December 31, 2019
+* Clash of code
