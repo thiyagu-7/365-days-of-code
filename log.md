@@ -406,3 +406,6 @@ Misc things on vocabulary-Anki integration
 
 ### Day 89, December 31, 2019
 * Clash of code
+
+### Day 90, January 2020
+* Resumed work on Stack explorer
