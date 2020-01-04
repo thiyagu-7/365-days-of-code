@@ -415,3 +415,6 @@ Misc things on vocabulary-Anki integration
 
 ### Day 92, January 3, 2020
 * Clash of codes
+
+### Day 93, January 4, 2020
+* Clash of codes
