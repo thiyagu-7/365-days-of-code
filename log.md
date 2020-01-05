@@ -418,3 +418,9 @@ Misc things on vocabulary-Anki integration
 
 ### Day 93, January 4, 2020
 * Clash of codes
+
+### Day 94, January 5, 2020
+* Stack explorer - Have to think of a different approach to cache the *answers* to support pagination.
+  * The cache is scoped to the current page's params
+* Clash of code
+* Went through map, query of pouch db at a high level
