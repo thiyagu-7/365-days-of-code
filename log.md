@@ -424,3 +424,8 @@ Misc things on vocabulary-Anki integration
   * The cache is scoped to the current page's params
 * Clash of code
 * Went through map, query of pouch db at a high level
+
+
+### Day 95, January 6, 2020
+* Read PouchDB [Map/Reduce](https://pouchdb.com/guides/queries.html) and [Mango Queries](https://pouchdb.com/guides/mango-queries.html).
+* Installed [pouchdb-server](https://github.com/pouchdb/pouchdb-server) and played around with it.
