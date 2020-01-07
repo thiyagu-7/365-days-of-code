@@ -429,3 +429,6 @@ Misc things on vocabulary-Anki integration
 ### Day 95, January 6, 2020
 * Read PouchDB [Map/Reduce](https://pouchdb.com/guides/queries.html) and [Mango Queries](https://pouchdb.com/guides/mango-queries.html).
 * Installed [pouchdb-server](https://github.com/pouchdb/pouchdb-server) and played around with it.
+
+### Day 96, January 7, 2020
+* High-level idea for pouch db storage
