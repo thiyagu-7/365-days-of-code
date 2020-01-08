@@ -432,3 +432,7 @@ Misc things on vocabulary-Anki integration
 
 ### Day 96, January 7, 2020
 * High-level idea for pouch db storage
+
+### Day 97, January 8, 2020
+* Clash of code
+* Stack explorer - Plan for rough implementation for answers API using pouchdb
