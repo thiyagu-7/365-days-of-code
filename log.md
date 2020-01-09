@@ -436,3 +436,6 @@ Misc things on vocabulary-Anki integration
 ### Day 97, January 8, 2020
 * Clash of code
 * Stack explorer - Plan for rough implementation for answers API using pouchdb
+
+### Day 98, January 9, 2020
+* Clash of codes
