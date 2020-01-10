@@ -439,3 +439,8 @@ Misc things on vocabulary-Anki integration
 
 ### Day 98, January 9, 2020
 * Clash of codes
+
+### Day 99, January 10, 2020
+* Clash of codes
+* Advent of code Day 5 part I
+
