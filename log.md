@@ -444,3 +444,5 @@ Misc things on vocabulary-Anki integration
 * Clash of codes
 * Advent of code Day 5 part I
 
+### Day 100, January 11, 2020
+* Advent of code Day 5 Part II
