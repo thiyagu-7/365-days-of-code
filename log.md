@@ -449,3 +449,6 @@ Misc things on vocabulary-Anki integration
 
 ### Day 101, January 12, 2020
 * Advent of code Day 6 Part I and II - Solved using plain DFS
+
+### Day 102, January 13, 2020
+* Advent of code - Day 7 - Part I
