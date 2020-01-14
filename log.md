@@ -452,3 +452,10 @@ Misc things on vocabulary-Anki integration
 
 ### Day 102, January 13, 2020
 * Advent of code - Day 7 - Part I
+
+### Day 103, January 14, 2020
+Tried Advent of code Day 7 part II - Didn't do.
+
+Seems it is very different and have to pause on each amplifier and keep track of instuction pointer. This means I cannot really reuse Day 5's method
+
+Clash of code
