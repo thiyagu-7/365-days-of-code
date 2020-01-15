@@ -459,3 +459,6 @@ Tried Advent of code Day 7 part II - Didn't do.
 Seems it is very different and have to pause on each amplifier and keep track of instuction pointer. This means I cannot really reuse Day 5's method
 
 Clash of code
+
+### Day 104, January 15, 2020
+* Resumed on stack explorer. Filtering by tags logic for *answers* API
