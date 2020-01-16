@@ -462,3 +462,7 @@ Clash of code
 
 ### Day 104, January 15, 2020
 * Resumed on stack explorer. Filtering by tags logic for *answers* API
+
+### Day 105, January 16, 2020
+* Read on poucdb collation and pagination
+* Clash of code
