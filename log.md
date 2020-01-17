@@ -466,3 +466,6 @@ Clash of code
 ### Day 105, January 16, 2020
 * Read on poucdb collation and pagination
 * Clash of code
+
+### Day 106, January 17, 2020
+* Clash of code
