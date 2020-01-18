@@ -469,3 +469,7 @@ Clash of code
 
 ### Day 106, January 17, 2020
 * Clash of code
+
+### Day 107, January 18, 2020
+* Decided on the key structure for answers pouch DB for stack explorer.
+* Clash of code
