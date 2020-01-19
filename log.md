@@ -473,3 +473,6 @@ Clash of code
 ### Day 107, January 18, 2020
 * Decided on the key structure for answers pouch DB for stack explorer.
 * Clash of code
+
+### Day 108, January 19, 2020
+* Created index and played around using pouchdb-server
