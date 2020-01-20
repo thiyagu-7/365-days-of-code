@@ -476,3 +476,7 @@ Clash of code
 
 ### Day 108, January 19, 2020
 * Created index and played around using pouchdb-server
+
+### Day 109, January 20, 2020
+* Started with the utility functions for stack-explorer *answers* API implementation.
+* Clash of code
