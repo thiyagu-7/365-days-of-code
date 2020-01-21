@@ -480,3 +480,6 @@ Clash of code
 ### Day 109, January 20, 2020
 * Started with the utility functions for stack-explorer *answers* API implementation.
 * Clash of code
+
+### Day 110, January 21, 2020
+* Clash of code
