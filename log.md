@@ -483,3 +483,7 @@ Clash of code
 
 ### Day 110, January 21, 2020
 * Clash of code
+
+### Day 111, January 22, 2020
+* Clash of code
+* Resumed on Go Programming language after a long time
