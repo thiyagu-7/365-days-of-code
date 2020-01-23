@@ -487,3 +487,7 @@ Clash of code
 ### Day 111, January 22, 2020
 * Clash of code
 * Resumed on Go Programming language after a long time
+
+### DAy 112, January 23, 2020
+* Clash of code
+* Golang - Type declaration
