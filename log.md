@@ -494,3 +494,6 @@ Clash of code
 
 ### Day 113, January 24, 2020
 * Read Golang book
+
+### Day 114, January 25, 2020
+* Started Golang basic types
