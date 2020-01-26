@@ -497,3 +497,7 @@ Clash of code
 
 ### Day 114, January 25, 2020
 * Started Golang basic types
+
+### Day 115, January 26, 2020
+* Started on strings on Golang
+* Clash of code
