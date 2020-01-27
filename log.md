@@ -501,3 +501,6 @@ Clash of code
 ### Day 115, January 26, 2020
 * Started on strings on Golang
 * Clash of code
+
+### Day 116, January 27, 2020
+* Clash of code
