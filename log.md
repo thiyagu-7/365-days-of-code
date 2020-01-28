@@ -504,3 +504,7 @@ Clash of code
 
 ### Day 116, January 27, 2020
 * Clash of code
+
+### Day 117, January 28, 2020
+* Unicode and rune in Golang
+* Clash of code
