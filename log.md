@@ -508,3 +508,6 @@ Clash of code
 ### Day 117, January 28, 2020
 * Unicode and rune in Golang
 * Clash of code
+
+### Day 118, January 29, 2020
+* Clash of code
