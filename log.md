@@ -511,3 +511,7 @@ Clash of code
 
 ### Day 118, January 29, 2020
 * Clash of code
+
+### Day 119, January 30, 2020
+* byte slices
+* Clash of code
