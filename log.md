@@ -515,3 +515,7 @@ Clash of code
 ### Day 119, January 30, 2020
 * byte slices
 * Clash of code
+
+### Day 120, January 31, 2020
+* Constants in Golang
+* Clash of code
