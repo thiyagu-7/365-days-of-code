@@ -519,3 +519,6 @@ Clash of code
 ### Day 120, January 31, 2020
 * Constants in Golang
 * Clash of code
+
+### Day 121, February 1, 2020
+* Golang - Some chapters on [gobyexample.com](https://gobyexample.com/)
