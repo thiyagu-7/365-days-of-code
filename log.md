@@ -522,3 +522,7 @@ Clash of code
 
 ### Day 121, February 1, 2020
 * Golang - Some chapters on [gobyexample.com](https://gobyexample.com/)
+
+### Day 122, February 2, 2020
+* Golang exercises on [gobyexample.com](https://gobyexample.com/)
+* Clash of code (some using Golang)
