@@ -529,3 +529,7 @@ Clash of code
 
 ### Day 123, February 3, 2020
 * Clash of code
+
+### Day 124, February 4, 2020
+* Closures in Golang
+* Clash of code	
