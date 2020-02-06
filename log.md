@@ -536,3 +536,6 @@ Clash of code
 
 ### Day 125, February 5, 2020
 * Clash of code
+
+### Day 126, February 6, 2020
+* Playing with Google Guice
